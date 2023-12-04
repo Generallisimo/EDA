@@ -21672,7 +21672,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .page-form__btn:hover {
-    background: #265a87
+    background: wheat;
 }
 
 .page-form__btn:disabled {

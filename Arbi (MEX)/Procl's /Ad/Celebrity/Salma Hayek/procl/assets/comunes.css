@@ -100,6 +100,7 @@ a, button, input[type="button"], input[type="submit"] {
     background-color: #fff;
     padding: 0 0.625rem;
     position: relative;
+    
 }
 
 .contenedor:after {
@@ -1225,6 +1226,7 @@ a, button, input[type="button"], input[type="submit"] {
     .contenedor {
         padding: 0 5%;
         width: auto;
+        margin-top: 50px !important;
     }
 }
 
@@ -1233,6 +1235,7 @@ a, button, input[type="button"], input[type="submit"] {
     .contenedor {
         padding: 0 5%;
         width: auto;
+        margin-top: 50px !important;
     }
 
     /* AJUSTE BRAND DAY */
@@ -1328,6 +1331,7 @@ a, button, input[type="button"], input[type="submit"] {
     .contenedor {
         padding: 0 10px 3.375rem;
         width: auto;
+        margin-top: 50px !important;
     }
 
     [class^="alerta_"] {
@@ -1364,6 +1368,7 @@ a, button, input[type="button"], input[type="submit"] {
     .contenedor {
         padding: 0 0.625rem 3.375rem;
         width: auto;
+        margin-top: 50px !important;
     }
 }
 
